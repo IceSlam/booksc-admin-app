@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ru.iceslam.booksc.booksc_admin_app">
    <application
-        android:label="booksc_admin_app"
+        android:label="Book-Service Admin"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
